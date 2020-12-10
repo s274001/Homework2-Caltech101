@@ -5,6 +5,7 @@ from PIL import Image
 import os
 import os.path
 import sys
+import pandas as pd
 
 
 def pil_loader(path):
